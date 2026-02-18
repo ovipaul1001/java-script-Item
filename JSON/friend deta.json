@@ -1,0 +1,18 @@
+
+{
+"friend":[ 
+{
+    "name": "Ovijit paul",
+    "age":26,
+    "city": "Magura",
+    "country":"Bangladesh"
+}
+,
+{
+    "name":"Jisan Roy",
+    "age": 26,
+    "city":"Kolkata",
+    "country":"india"
+}
+]
+}

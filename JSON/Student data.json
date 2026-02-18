@@ -1,0 +1,44 @@
+
+
+{
+  "allstudent": [
+    {
+      "name": "ovijit paul",
+      "midleName": null,
+      "age": 26,
+      "cgpa": 3.18,
+      "languages": ["bangla", "English", "Hindi"],
+      "friend": [
+        {
+          "name": "Rakib Islam",
+          "age": 26,
+          "city": "Magura"
+        },
+        {
+          "name": "Liton",
+          "age": 29,
+          "city": "Dhaka"
+        }
+      ]
+    },
+    {
+      "name": "Anika",
+      "midleName": null,
+      "age": 33,
+      "cgpa": 3.18,
+      "languages": ["bangla", "English", "Hindi"],
+      "friend": [
+        {
+          "name": "Monir",
+          "age": 26,
+          "city": "Bogura"
+        },
+        {
+          "name": "Mucha",
+          "age": 26,
+          "city": "Cumila"
+        }
+      ]
+    }
+  ]
+}
